@@ -30,30 +30,36 @@ O sistema segue um pipeline de dados estruturado para garantir respostas context
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** Python 3.10+
-* **Framework de IA:** LangChain
-* **LLM & Embeddings:** Google Gemini (`gemini-1.5-flash` & `gemini-embedding-001`)
-* **Banco Vetorial:** ChromaDB
-* **Interface Gráfica:** Streamlit
-* **Hospedagem / Cloud:** Streamlit Community Cloud
+- **Linguagem:** Python 3.10+
+- **Framework de IA:** LangChain
+- **LLM & Embeddings:** Google Gemini (`gemini-1.5-flash` & `gemini-embedding-001`)
+- **Banco Vetorial:** ChromaDB
+- **Interface Gráfica:** Streamlit
+- **Hospedagem / Cloud:** Streamlit Community Cloud
 
 ## 💬 Exemplos de Perguntas e Respostas
 
 ### 📋 Exemplo 1: Recursos Humanos e Segurança
 
-* **Pergunta:** *"O que devemos fazer se a Aqua Laguna nível 3 for anunciada?"*
-* **Resposta do Agente:** *"Quando o alarme de nível 3 soar, todos os carpinteiros devem evacuar a Doca 1 imediatamente. Ferramentas pesadas devem ser presas ao solo ou levadas para o andar superior. Os dias de chuva da Aqua Laguna são considerados Folga Remunerada para todos os funcionários."*
+- **Pergunta:** *"O que devemos fazer se a Aqua Laguna nível 3 for anunciada?"*
+- **Resposta do Agente:** *"Quando o alarme de nível 3 soar, todos os carpinteiros devem evacuar a Doca 1 imediatamente. Ferramentas pesadas devem ser presas ao solo ou levadas para o andar superior. Os dias de chuva da Aqua Laguna são considerados Folga Remunerada para todos os funcionários."*
 
 ### 🪵 Exemplo 2: Engenharia Naval
 
-* **Pergunta:** *"Como devo proceder para cortar a Madeira Adam?"*
-* **Resposta do Agente:** *"O corte da Madeira Adam deve ser feito utilizando serras de liga de aço temperado resfriadas a água, pois serras comuns quebram imediatamente devido à densidade extrema da madeira. Acesso restrito aos principais contramestres."*
+- **Pergunta:** *"Como devo proceder para cortar a Madeira Adam?"*
+- **Resposta do Agente:** *"O corte da Madeira Adam deve ser feito utilizando serras de liga de aço temperado resfriadas a água, pois serras comuns quebram imediatamente devido à densidade extrema da madeira. Acesso restrito aos principais contramestres."*
 
 ### 💰 Exemplo 3: Tabela de Preços (Financeiro)
 
-* **Pergunta:** *"Qual é a embarcação mais barata e qual seu prazo de entrega?"*
-* **Resposta do Agente:** *"A embarcação mais barata na nossa tabela de preços é o Bote Salva-vidas, custando 500.000 Beries, com prazo de entrega de 1 semana."*
+- **Pergunta:** *"Qual é a embarcação mais barata e qual seu prazo de entrega?"*
+- **Resposta do Agente:** *"A embarcação mais barata na nossa tabela de preços é o Bote Salva-vidas, custando 500.000 Beries, com prazo de entrega de 1 semana."*
 
 ## 🖼️ Demonstração da Aplicação
 
-![Interface do Den Den Mushi](imagens/interface_chat.png)
+![Captura 001 — Visão geral da aplicação Den Den Mushi](imagens/FireShot%20Capture%20001%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)[cite: 11]
+
+![Captura 008 — Demonstração da interface Den Den Mushi](imagens/FireShot%20Capture%20008%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)[cite: 11]
+
+![Captura 010 — Consulta e resposta do assistente Den Den Mushi](imagens/FireShot%20Capture%20010%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)[cite: 11]
+
+![Captura 011 — Interação com o agente Den Den Mushi](imagens/FireShot%20Capture%20011%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)[cite: 11]
