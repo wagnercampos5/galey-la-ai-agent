@@ -56,10 +56,10 @@ O sistema segue um pipeline de dados estruturado para garantir respostas context
 
 ## 🖼️ Demonstração da Aplicação
 
-![Captura 001 — Visão geral da aplicação Den Den Mushi](imagens/FireShot%20Capture%20001%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)[cite: 11]
+![Captura 001 — Visão geral da aplicação Den Den Mushi](imagens/FireShot%20Capture%20001%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)
 
-![Captura 008 — Demonstração da interface Den Den Mushi](imagens/FireShot%20Capture%20008%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)[cite: 11]
+![Captura 008 — Demonstração da interface Den Den Mushi](imagens/FireShot%20Capture%20008%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)
 
-![Captura 010 — Consulta e resposta do assistente Den Den Mushi](imagens/FireShot%20Capture%20010%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)[cite: 11]
+![Captura 010 — Consulta e resposta do assistente Den Den Mushi](imagens/FireShot%20Capture%20010%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)
 
-![Captura 011 — Interação com o agente Den Den Mushi](imagens/FireShot%20Capture%20011%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)[cite: 11]
+![Captura 011 — Interação com o agente Den Den Mushi](imagens/FireShot%20Capture%20011%20-%20Galley-La%20Co.%20-%20Den%20Den%20Mushi%20-%20localhost.png)
